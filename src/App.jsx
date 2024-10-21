@@ -4,7 +4,7 @@ import ProgressBar from './assets/Components/ProgressBar'
 
 function App() {
 
-  const [show, setShow] = useState(true);
+  const [show, setShow] = useState(false);
 
 
   return (
